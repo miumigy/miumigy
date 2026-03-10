@@ -10,8 +10,8 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 
 ## 🛠 Skills & Interests
 - **Domain:** Supply Chain Management (SCM), Logistics DX, B2B System Planning & Consulting
-- **Tech & AI:** Vibe coding with AI agents (Cursor, v0, etc.), Enterprise LLM Application, Web App Development
-- **Projects:** Supply chain simulations/games, 3D animations, etc.
+- **Tech & AI:** Vibe coding with AI agents (Claude, Codex, Gemini, etc.), Enterprise LLM Application, Web App Development
+- **Personal Projects:** Supply chain simulations/games, 3D animations, etc.
   - **Simple Suppy Chain Simulator** (with animation) [repo](https://github.com/miumigy/scsim) / [Pages](https://miumigy.github.io/scsim/)
   - **Simple Green Field Analysis** (by Japan Prefecture) [repo](https://github.com/miumigy/gfajpf) / [Pages](https://miumigy.github.io/gfajpf/)
   - **Simple Transportation Route & CO₂e Calculator** [repo](https://github.com/miumigy/rtco2) / [Pages](https://miumigy.github.io/rtco2/)
