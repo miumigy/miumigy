@@ -18,6 +18,7 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
   - **ShipOpt** (Shipping optimization MVP) [repo](https://github.com/miumigy/shipopt) / [Pages](https://miumigy.github.io/shipopt/)
   - **Global Supply Chain Tycoon** (Global SCM game) [repo](https://github.com/miumigy/gsctycn) / [Pages](https://miumigy.github.io/gsctycn/)
   - **Orbit Chain** (Interstellar SCM game) [repo](https://github.com/miumigy/orbchain) / [Pages](https://miumigy.github.io/orbchain/)
+  - **The Plastic World in Black & White** (3D animations) [repo](https://github.com/miumigy/bandw) / [Pages](https://miumigy.github.io/bandw/)
 
 ## 🎸 Hobbies
 - Playing in a rock band (Guitar, Bass, Vocals)
