@@ -1,5 +1,6 @@
 # Hi there, I'm Yasuyuki Umiguchi (miumigy) 👋
 ![Porttait](https://github.com/miumigy/miumigy/blob/main/PORTRAIT.PNG)
+
 I am a Logistics DX Consultant focused on delivering value to Japanese enterprises through digital supply chain optimization. I am passionate about exploring "vibe coding" with AI agents to create applications that resonate with business professionals, as well as driving the practical implementation of AI in system development.
 
 ## 💼 Career & Experience
