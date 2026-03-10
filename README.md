@@ -14,6 +14,8 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 - **Projects:** Supply chain simulations/games, 3D animations, etc.
   - **Simple Suppy Chain Simulator** (with animation) [repo](https://github.com/miumigy/scsim) / [Pages](https://miumigy.github.io/scsim/)
   - **Simple Green Field Analysis** (by Japan Prefecture) [repo](https://github.com/miumigy/gfajpf) / [Pages](https://miumigy.github.io/gfajpf/)
+  - **Simple Transportation Route & CO₂e Calculator** [repo](https://github.com/miumigy/rtco2) / [Pages](https://miumigy.github.io/rtco2/)
+  - **ShipOpt** (Shipping optimization MVP) [repo](https://github.com/miumigy/shipopt) / [Pages](https://miumigy.github.io/shipopt/)
   - **Global Supply Chain Tycoon** (Global SCM game) [repo](https://github.com/miumigy/gsctycn) / [Pages](https://miumigy.github.io/gsctycn/)
   - **Orbit Chain** (Interstellar SCM game) [repo](https://github.com/miumigy/orbchain) / [Pages](https://miumigy.github.io/orbchain/)
 
@@ -22,7 +24,7 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 - Songwriting & DTM (Desktop Music)
 
 ## 🔗 Connect with me
-- **YouTube:** [miumigy](https://www.youtube.com/miumigy)
 - **GitHub:** [miumigy](https://github.com/miumigy)
 - **X** [miumigy](https://x.com/miumigy/)
+- **YouTube:** [miumigy](https://www.youtube.com/miumigy)
 ---
