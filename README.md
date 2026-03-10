@@ -20,5 +20,5 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 ## 🔗 Connect with me
 - **YouTube:** [miumigy](https://www.youtube.com/miumigy)
 - **GitHub:** [miumigy](https://github.com/miumigy)
-
+- **X** [miumigy](https://x.com/miumigy/)
 ---
