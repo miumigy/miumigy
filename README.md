@@ -29,5 +29,5 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 
 ## 🔗 Connect with me
 - **GitHub:** [miumigy](https://github.com/miumigy)
-- **LinkedIn** [Y.Umi](https://www.linkedin.com/in/%E9%9D%96%E5%B9%B8-%E6%B5%B7%E5%8F%A3-2247032a0/)
+- **LinkedIn** [Yasuyuki Umiguchi](https://www.linkedin.com/in/%E9%9D%96%E5%B9%B8-%E6%B5%B7%E5%8F%A3-2247032a0/)
 ---
