@@ -1,4 +1,4 @@
-# Hi there, I'm Yasuyuki Umiguchi (miumigy) 👋
+# Hi there, I'm Yasuyuki Umiguchi (id:miumigy) 👋
 <p align="center">
   <img src="https://github.com/miumigy/miumigy/blob/main/BAND.png" height="300px" />
 </p>
