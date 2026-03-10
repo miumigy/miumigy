@@ -12,9 +12,10 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 - **Domain:** Supply Chain Management (SCM), Logistics DX, B2B System Planning & Consulting
 - **Tech & AI:** Vibe coding with AI agents (Cursor, v0, etc.), Enterprise LLM Application, Web App Development
 - **Projects:** Supply chain simulations/games, 3D animations, etc.
-  - **Simple Suppy Chain Simulator** [repo](https://github.com/miumigy/scsim) / [Pages](https://miumigy.github.io/scsim/)
+  - **Simple Suppy Chain Simulator** (with animation) [repo](https://github.com/miumigy/scsim) / [Pages](https://miumigy.github.io/scsim/)
+  - **Simple Green Field Analysis** (by Japan Prefecture) [repo](https://github.com/miumigy/gfajpf) / [Pages](https://miumigy.github.io/gfajpf/)
   - **Global Supply Chain Tycoon** (Global SCM game) [repo](https://github.com/miumigy/gsctycn) / [Pages](https://miumigy.github.io/gsctycn/)
-  - **Orbit Chain (Interstellar SCM game)** [repo](https://github.com/miumigy/orbchain) / [Pages](https://miumigy.github.io/orbchain/)
+  - **Orbit Chain** (Interstellar SCM game) [repo](https://github.com/miumigy/orbchain) / [Pages](https://miumigy.github.io/orbchain/)
 
 ## 🎸 Hobbies
 - Playing in a rock band (Guitar, Bass, Vocals)
