@@ -10,7 +10,7 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
   - Driving supply chain optimization using digital technologies and leading AI implementation for services like SCDOS.
 - **Fast Retailing Co., Ltd.** / Business System Reform Leader (8 years)
 - **NS Solutions Corporation (NSSOL)** / SE & PM (9 years)
-'''mermaid
+```mermaid
 %%{init: {'theme': 'dark'}}%%
 timeline
     title My Professional Journey
