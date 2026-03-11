@@ -13,9 +13,23 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 
 ```mermaid
 
-timeline
-graph LR
-    A[Start] --> B[Success]
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#0070f3',
+    'primaryTextColor': '#fff',
+    'primaryBorderColor': '#7C0000',
+    'lineColor': '#F8B229',
+    'secondaryColor': '#006100',
+    'tertiaryColor': '#fff'
+  }
+}}%%
+graph TD
+    A[Vibe Coding] --> B(Innovation)
+    B --> C{Success}
+    C -->|Yes| D[Value Creation]
+    style A fill:#f96,stroke:#333,stroke-width:4px
+
 ```
 
 ## 🛠 Skills & Interests
