@@ -13,16 +13,20 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 
 ```mermaid
 
-%%{init: {'theme': 'dark'}}%%
-gantt
-    title Career Roadmap
-    dateFormat  YYYY
-    axisFormat  %Y
-    
-    section Experience
-    NSSOL (SE/PM)           :2003, 2012
-    Fast Retailing (Leader) :2012, 2020
-    LOGISTEED (Consultant)  :2020, 2026
+graph LR
+    %% ノードの定義
+    A[<b>NSSOL</b><br/>SE / PM] 
+    B[<b>Fast Retailing</b><br/>Business Transformation] 
+    C[<b>LOGISTEED</b><br/>Logistics DX Consultant]
+
+    %% 接続（太い矢印など）
+    A ==> B
+    B ==> C
+
+    %% スタイルの適用（色をつけて彩る）
+    style A fill:#e1f5fe,stroke:#01579b
+    style B fill:#fff3e0,stroke:#e65100
+    style C fill:#e8f5e9,stroke:#1b5e20
 
 ```
 
