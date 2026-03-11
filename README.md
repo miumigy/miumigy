@@ -8,7 +8,7 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 ```mermaid
 
 mindmap
-  root((Yasuyuki Umiguchi))
+  root((Yasuyuki Umiguchi<br/>id:miumigy))
     Professional
       Logistics DX
       SCM Optimization
