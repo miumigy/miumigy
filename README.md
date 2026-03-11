@@ -13,22 +13,15 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 
 ```mermaid
 
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#0070f3',
-    'primaryTextColor': '#fff',
-    'primaryBorderColor': '#7C0000',
-    'lineColor': '#F8B229',
-    'secondaryColor': '#006100',
-    'tertiaryColor': '#fff'
-  }
-}}%%
-graph TD
-    A[Vibe Coding] --> B(Innovation)
-    B --> C{Success}
-    C -->|Yes| D[Value Creation]
-    style A fill:#f96,stroke:#333,stroke-width:4px
+%%{init: {'theme': 'dark'}}%%
+timeline
+    title My Professional Journey
+    section NSSOL
+        SE & PM : 2003 - 2012
+    section Fast Retailing
+        Leader : 2012 - 2020
+    section LOGISTEED
+        DX Consultant : 2020 - Present
 
 ```
 
