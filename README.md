@@ -14,14 +14,8 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 ```mermaid
 
 timeline
-    title My Professional Journey
-    section NSSOL
-        SE &amp; PM : 2003 - 2012
-    section Fast Retailing
-        Leader : 2012 - 2020
-    section LOGISTEED
-        DX Consultant : 2020 - Present
-
+graph LR
+    A[Start] --> B[Success]
 ```
 
 ## 🛠 Skills & Interests
