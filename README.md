@@ -20,7 +20,7 @@ timeline
         Leader : 2012 - 2020
     section LOGISTEED
         DX Consultant : 2020 - Present
-
+```
 ## 🛠 Skills & Interests
 - **Domain:** Supply Chain Management (SCM), OR/Optimization, Logistics DX, B2B System Planning & Consulting
 - **Tech & AI:** Vibe coding with AI agents (Claude, Codex, Gemini, etc.), Enterprise LLM Application, BI/Web App Development
