@@ -12,14 +12,16 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 - **NS Solutions Corporation (NSSOL)** / SE & PM (9 years)
 
 ```mermaid
+
 timeline
     title My Professional Journey
     section NSSOL
-        SE & PM : 2003 - 2012
+        SE &amp; PM : 2003 - 2012
     section Fast Retailing
         Leader : 2012 - 2020
     section LOGISTEED
         DX Consultant : 2020 - Present
+
 ```
 
 ## 🛠 Skills & Interests
