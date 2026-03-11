@@ -5,6 +5,25 @@
 
 I am a Logistics DX Consultant focused on delivering value to Japanese enterprises through digital supply chain optimization. I am passionate about exploring "vibe coding" with AI agents to create applications that resonate with business professionals, as well as driving the practical implementation of AI in system development.
 
+```mermaid
+
+mindmap
+  root((Yasuyuki Umiguchi))
+    Professional
+      Logistics DX
+      SCM Optimization
+      Digital Supply Chain
+    Technology
+      AI Agents
+      Vibe Coding
+      Web App Development
+    Creative
+      Rock Band
+      Guitar & Bass
+      DTM / Composition
+
+```
+
 ## 💼 Career & Experience
 - **Logisteed, Ltd.** / Logistics DX Consultant (2020 - Present)
   - Driving supply chain optimization using digital technologies and leading AI implementation for services like SCDOS.
