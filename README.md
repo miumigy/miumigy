@@ -10,8 +10,7 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
   - Driving supply chain optimization using digital technologies and leading AI implementation for services like SCDOS.
 - **Fast Retailing Co., Ltd.** / Business System Reform Leader (8 years)
 - **NS Solutions Corporation (NSSOL)** / SE & PM (9 years)
-<pre>
-  %%{init: {'theme': 'dark'}}%%
+%%{init: {'theme': 'dark'}}%%
 timeline
     title My Professional Journey
     section NSSOL
@@ -20,7 +19,6 @@ timeline
         Leader : 2012 - 2020
     section LOGISTEED
         DX Consultant : 2020 - Present
-</pre>
 ## 🛠 Skills & Interests
 - **Domain:** Supply Chain Management (SCM), OR/Optimization, Logistics DX, B2B System Planning & Consulting
 - **Tech & AI:** Vibe coding with AI agents (Claude, Codex, Gemini, etc.), Enterprise LLM Application, BI/Web App Development
