@@ -14,14 +14,15 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 ```mermaid
 
 %%{init: {'theme': 'dark'}}%%
-timeline
-    title My Professional Journey
-    section NSSOL
-        SE & PM : 2003 - 2012
-    section Fast Retailing
-        Leader : 2012 - 2020
-    section LOGISTEED
-        DX Consultant : 2020 - Present
+gantt
+    title Career Roadmap
+    dateFormat  YYYY
+    axisFormat  %Y
+    
+    section Experience
+    NSSOL (SE/PM)           :2003, 2012
+    Fast Retailing (Leader) :2012, 2020
+    LOGISTEED (Consultant)  :2020, 2026
 
 ```
 
