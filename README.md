@@ -12,7 +12,6 @@ I am a Logistics DX Consultant focused on delivering value to Japanese enterpris
 - **NS Solutions Corporation (NSSOL)** / SE & PM (9 years)
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
 timeline
     title My Professional Journey
     section NSSOL
