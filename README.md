@@ -61,4 +61,7 @@ graph LR
 ## 🔗 Connect with me
 - **GitHub:** [miumigy](https://github.com/miumigy)
 - **LinkedIn** [Yasuyuki Umiguchi](https://www.linkedin.com/in/yasuyuki-umiguchi-2247032a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+<p align="left">
+  <img src="https://github.com/miumigy/miumigy/blob/main/linkedin.png" height="100px" />
+</p>
 ---
